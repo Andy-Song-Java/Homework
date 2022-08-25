@@ -1,4 +1,4 @@
-package com.aaa.homeworks.stringHomeWork;
+package com.aaa.homeworks._01string;
 
 public class StringHomework4 {
     //4) Given a list of string array, combine them into one string sentence, return the string sentence

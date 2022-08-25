@@ -1,4 +1,4 @@
-package com.aaa.homeworks.stringHomeWork;
+package com.aaa.homeworks._01string;
 
 public class StringHomework2 {
     //2) Given two strings, compare if these two strings are equal by comparing each character

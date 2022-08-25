@@ -1,4 +1,4 @@
-package com.aaa.homeworks.staticHomeWork;
+package com.aaa.homeworks._03static;
 import java.util.*;
 public class Book {
     /*

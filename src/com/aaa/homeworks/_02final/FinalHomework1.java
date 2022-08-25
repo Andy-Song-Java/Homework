@@ -1,4 +1,4 @@
-package com.aaa.homeworks.finalHomeWork;
+package com.aaa.homeworks._02final;
 
 public class FinalHomework1 {
 //Problems: define a final class and final method and
