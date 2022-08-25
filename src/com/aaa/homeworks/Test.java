@@ -1,4 +1,4 @@
-package com.aaa.test;
+package com.aaa.homeworks;
 
 public class Test {
     public static void main(String[] args) {

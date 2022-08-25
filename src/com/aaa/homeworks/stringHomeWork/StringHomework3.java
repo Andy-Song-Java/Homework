@@ -1,4 +1,4 @@
-package com.aaa.test;
+package com.aaa.homeworks.stringHomeWork;
 
 import java.util.StringTokenizer;
 
